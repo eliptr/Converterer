@@ -5,5 +5,7 @@
  <preference name="DisallowOverscroll" value="true" />
  <preference name="StatusBarOverlaysWebView" value="true" />
  <name>Converterer</name>
+ <icon src="images/icon.png" />
+
 
 </widget>
